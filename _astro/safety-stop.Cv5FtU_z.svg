@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Säkerhetsstopp</title>
+  <desc id="desc">Illustration som visar när man ska avbryta och kontakta rörmokare.</desc>
+  <rect width="1200" height="700" fill="#fff7ed" />
+  <polygon points="600,110 1020,600 180,600" fill="#fb923c" stroke="#9a3412" stroke-width="14" />
+  <rect x="560" y="250" width="80" height="190" rx="24" fill="#7c2d12" />
+  <circle cx="600" cy="500" r="34" fill="#7c2d12" />
+  <text x="230" y="665" fill="#7c2d12" font-size="48" font-family="Arial, sans-serif" font-weight="700">Stoppa direkt om du ser aktiv läcka i vägg/golv, elrisk eller osäker rördragning</text>
+</svg>

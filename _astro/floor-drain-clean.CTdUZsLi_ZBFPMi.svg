@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Rensa golvbrunn i badrum</title>
+  <desc id="desc">Illustration av golvbrunn med lyft sil, borste och rengöringshink.</desc>
+  <rect width="1200" height="700" fill="#ecfeff" />
+  <rect x="120" y="120" width="960" height="500" rx="24" fill="#dbeafe" stroke="#1e3a8a" stroke-width="6" />
+  <rect x="470" y="250" width="260" height="260" rx="20" fill="#e5e7eb" stroke="#1f2937" stroke-width="8" />
+  <rect x="510" y="290" width="180" height="180" rx="12" fill="#94a3b8" stroke="#0f172a" stroke-width="6" />
+  <line x1="530" y1="330" x2="670" y2="330" stroke="#334155" stroke-width="6" />
+  <line x1="530" y1="380" x2="670" y2="380" stroke="#334155" stroke-width="6" />
+  <line x1="530" y1="430" x2="670" y2="430" stroke="#334155" stroke-width="6" />
+  <path d="M760 230 q70 20 90 85" stroke="#0f172a" stroke-width="8" fill="none" />
+  <rect x="835" y="280" width="40" height="180" rx="12" fill="#a16207" />
+  <rect x="808" y="440" width="92" height="34" rx="12" fill="#f59e0b" />
+  <rect x="210" y="420" width="170" height="140" rx="14" fill="#38bdf8" stroke="#0c4a6e" stroke-width="6" />
+  <text x="120" y="90" fill="#111827" font-size="48" font-family="Arial, sans-serif" font-weight="700">Golvbrunn: lyft silen, rensa hår och smuts, skölj och sätt tillbaka</text>
+</svg>
