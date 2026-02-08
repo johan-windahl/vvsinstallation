@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="900" viewBox="0 0 1600 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg-bergvarme-vs-luft-vattenvarme" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#431407"/>
+      <stop offset="0.55" stop-color="#b45309"/>
+      <stop offset="1" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg-bergvarme-vs-luft-vattenvarme)"/>
+  <rect x="72" y="72" width="1456" height="756" rx="34" fill="#f8fafc" fill-opacity="0.94"/>
+  <rect x="120" y="136" width="278" height="54" rx="27" fill="#0b1220"/>
+  <text x="146" y="170" font-family="'Arial', 'Helvetica Neue', sans-serif" font-size="28" font-weight="700" fill="#f8fafc">VVS Installation</text>
+  <text x="120" y="236" font-family="'Arial', 'Helvetica Neue', sans-serif" font-size="30" font-weight="700" fill="#1e293b">Värme &amp; Energi</text>
+  <text x="120" y="336" font-family="'Arial', 'Helvetica Neue', sans-serif" font-size="56" font-weight="700" fill="#0b1220">Bergvärme vs luft-vattenvärme</text>
+  <rect x="1010" y="220" width="360" height="360" rx="40" fill="#dbeafe"/>
+  
+      <rect x="1068" y="304" width="224" height="236" rx="26" fill="none" stroke="#0b1220" stroke-width="18"/>
+      <rect x="1108" y="332" width="28" height="180" rx="10" fill="#0b1220"/>
+      <rect x="1156" y="332" width="28" height="180" rx="10" fill="#0b1220"/>
+      <rect x="1204" y="332" width="28" height="180" rx="10" fill="#0b1220"/>
+      <rect x="1252" y="332" width="28" height="180" rx="10" fill="#0b1220"/>
+      <circle cx="1324" cy="330" r="22" fill="none" stroke="#0b1220" stroke-width="12"/>
+      <path d="M1324 292 L1324 264 M1348 302 L1368 282 M1300 302 L1280 282" stroke="#0b1220" stroke-width="10" stroke-linecap="round"/>
+    
+  <text x="120" y="610" font-family="'Arial', 'Helvetica Neue', sans-serif" font-size="30" font-weight="500" fill="#334155">Praktisk guide, checklista och steg for steg-rad i verkliga projekt.</text>
+</svg>
